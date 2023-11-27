@@ -1,1 +1,1 @@
-Snake and ladders using python and tkinter
+Snake game using python and tkinter
